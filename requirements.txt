@@ -1,0 +1,4 @@
+comm==0.2.2
+Flask==2.2.3
+DBcm==2.1
+mariadb==1.1.10
